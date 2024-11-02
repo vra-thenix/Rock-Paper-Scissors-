@@ -39,8 +39,11 @@ Here is he demo link :- https://rps-vra.netlify.app
 2. **Add Images**:Make sure you have the following images in the same directory:
 
 ~ rock.png
+
 ~ paper.png
+
 ~ scissors.png
+
 3. **Open the HTML File**: Open index.html in your favorite web browser.
 
 
