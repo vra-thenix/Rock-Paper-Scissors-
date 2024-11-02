@@ -35,3 +35,22 @@ Welcome to the Rock Paper Scissors Game! This is a simple browser-based game whe
    ```bash
    git clone https://github.com/your-username/rock-paper-scissors.git
    cd rock-paper-scissors
+2. **Add Images**:Make sure you have the following images in the same directory:
+
+~ rock.png
+~ paper.png
+~ scissors.png
+3. **Open the HTML File**: Open index.html in your favorite web browser.
+
+
+# Gameplay Instructions
+1. Click on the Rock, Paper, or Scissors buttons to make your choice.
+2. The computer will randomly select its choice.
+3. The winner will be displayed based on the rules:
+    ~Rock beats Scissors
+    ~Scissors beats Paper
+    ~Paper beats Rock
+4. Your score and the computer's score will be updated after each round.
+
+# Author
+**VRA**
