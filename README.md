@@ -35,14 +35,13 @@ Here is he demo link :- https://rps-vra.netlify.app
 1. **Download the Repository**: Clone this repository to your local machine.
    ```bash
    git clone https://github.com/your-username/rock-paper-scissors.git
+   
    cd rock-paper-scissors
 2. **Add Images**:Make sure you have the following images in the same directory:
 
-~ rock.png
-
-~ paper.png
-
-~ scissors.png
+ - rock.png
+ - paper.png
+ - scissors.png
 
 3. **Open the HTML File**: Open index.html in your favorite web browser.
 
