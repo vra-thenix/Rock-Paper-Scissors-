@@ -12,7 +12,7 @@ Welcome to the Rock Paper Scissors Game! This is a simple browser-based game whe
 
 ## Demo
 
-![Rock Paper Scissors Game](![image](https://github.com/user-attachments/assets/15a2d171-88f2-4e6c-8a78-40cdb44ac172))  
+![Rock Paper Scissors Game](![image](https://github.com/user-attachments/assets/15a2d171-88f2-4e6c-8a78-40cdb44ac172)
 
 Here is he demo link :- url("https://rps-vra.netlify.app")
 
