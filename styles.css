@@ -1,0 +1,52 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f8ff;
+  background: url("https://i.pinimg.com/736x/59/fa/52/59fa52b7125d11c98b010ec97687be02.jpg");
+  background-size: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+  border: 2px solid #007acc;
+  border-radius: 10px;
+  padding: 20px;
+  background-color: white;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  color: #007acc;
+}
+
+.options {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.option {
+  background: none;
+  border: none;
+  margin: 0 15px;
+  cursor: pointer;
+}
+
+.option img {
+  width: 100px;
+  height: 100px;
+}
+
+.result {
+  margin: 20px;
+  font-size: 20px;
+  color: #007acc;
+}
+
+.score {
+  margin-top: 20px;
+}
