@@ -9,7 +9,6 @@ Welcome to the Rock Paper Scissors Game! This is a simple browser-based game whe
 - [Technologies Used](#technologies-used)
 - [How to Run](#how-to-run)
 - [Gameplay Instructions](#gameplay-instructions)
-- [License](#license)
 
 ## Demo
 
