@@ -1,5 +1,5 @@
 let userScore = 0
-let computerScore = 0;
+let computerScore = 0
 
 const options = document.querySelectorAll('.option');
 const resultDiv = document.getElementById('result');
